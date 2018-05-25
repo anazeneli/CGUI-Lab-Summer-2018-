@@ -1,0 +1,7 @@
+Assets/Watson/serviceCredentials/**
+Assets/Watson/TestData/**
+Assets/Scripts/Extensions/**
+Assets/Scripts/LetsTweetInUnity/**
+Assets/Scripts/Twity/**
+*meta
+*csproj
